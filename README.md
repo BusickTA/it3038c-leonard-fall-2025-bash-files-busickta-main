@@ -1,0 +1,38 @@
+# Bash Backup
+
+Instructions to this assignment can be found [here](https://it3038c.github.io/modules/3/bash-backup).
+
+## Running tests locally
+
+```bash
+./test_directory-listing.sh
+./test_backup-file.sh
+./test_backup-directory.sh
+```
+
+## Checklist
+
+<!-- This is an example of how to check the boxes -->
+```md
+- [x] This task is complete.
+```
+
+- [ ] All Unit tests passed.
+- [ ] Filled out the self-evaluation.
+- [ ] Filled out the self-reflection.
+
+## Self-Evaluation
+
+How many points out of 15 do you deserve on this assignment: `0-15`
+
+### Justify the score you gave yourself
+
+## Self-Reflection
+
+### What did you learn that you found interesting?
+
+### What parts of the assignment did you find most challenging?
+
+### If you have failing tests, why do you think they are failing? What have you tried to fix your code?
+
+### How long did it take you to finish this assignment?

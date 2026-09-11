@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "it3038c-leonard-fall-2025"
+assignment: "bash-files"
+owner:
+  username: "BusickTA"
+  id: 181758315
+  accepted_at: "2026-09-09T19:37:31Z"
+source:
+  owner: "IT3038C-Leonard-SP24"
+  owner_id: 154370093
+  repo: "Bash-Files"
+  branch: "main"
